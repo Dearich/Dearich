@@ -10,7 +10,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dearich&theme=radical&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=dearich&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
