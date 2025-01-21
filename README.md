@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working in [inDrive](https://promo.indrive.com/peopledriven)<br>👯 I’m looking to collaborate on products which help people<br>🌱 I’m currently learning SwiftUI+Combine <br>⚡ Fun fact: I'm ex pro volleyball player [Wiki](https://ru.wikipedia.org/wiki/Исмаилов,_Азизбек_Рустамович)<br>
+# 💫 About Me:👯 I’m looking to collaborate on products which help people<br>🌱 Fun fact: I'm ex pro volleyball player [Wiki](https://ru.wikipedia.org/wiki/Исмаилов,_Азизбек_Рустамович)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbek-ismailov/) 
